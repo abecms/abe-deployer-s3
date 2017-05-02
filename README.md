@@ -1,7 +1,7 @@
 # abe-deployer-s3
 A Abe deployer for S3
 
-##Introduction
+## Introduction
 This plugin is a S3 deployer for your Abe blog. Once you've created your s3 repository on AWS and created a user with proper authorizations in IAM, just install this plugin with Abe and fill in the parameters.
 
 Everytime you'll publish/unpublish a content, your blog will be sync'ed 
